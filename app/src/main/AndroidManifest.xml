@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.basicwidgets">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/BasicWidget"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BasicWidget8_5Activity"></activity>
+        <activity android:name=".BasicWidget8_4Activity" />
+        <activity android:name=".BasicWidget8_3Activity" />
+        <activity android:name=".BasicWidget8_2Activity" />
+        <activity android:name=".BasicWidget8_1Activity" />
+        <activity android:name=".BasicWidget7Activity" />
+        <activity android:name=".BasicWidget8Activity" />
+        <activity android:name=".BasicWidget6Activity" />
+        <activity android:name=".BasicWidget5Activity" />
+        <activity android:name=".BasicWidget4Activity" />
+        <activity android:name=".BasicWidget3Activity" />
+        <activity android:name=".BasicWidget2Activity" />
+        <activity android:name=".BasicWidget1Activity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

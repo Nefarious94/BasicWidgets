@@ -1,0 +1,41 @@
+<resources>
+
+    <string name="texto">Texto</string>
+    <string name="botones">Botones</string>
+    <string name="imagenes">Imagenes</string>
+    <string name="funcionalidad">Funcionalidad</string>
+    <string name="colores">Colores</string>
+    <string name="checkbox">Checkbox</string>
+    <string name="radio">Radio</string>
+    <string name="apariencia">Apariencia</string>
+    <string name="texto_1">Texto_1</string>
+    <string name="boton_time">boton_time</string>
+    <string name="time">Time</string>
+    <string name="imagen">imagen</string>
+    <string name="imagen_b">imagen_b</string>
+    <string name="check">check</string>
+    <string name="reinicio">reinicio</string>
+    <string name="textof">TextoF</string>
+    <string name="textoe">TextoE</string>
+    <string name="radiov">radiov</string>
+    <string name="radiob">radiob</string>
+    <string name="radior">radior</string>
+    <string name="texto_r">texto_r</string>
+    <string name="BasicWidget">BasicWidget</string>
+    <string name="imagenboton">imageboton</string>
+    <string name="imagennormal">imagen</string>
+    <string name="sonido">Sonido</string>
+    <string name="radio_groups">Radio_groups</string>
+    <string name="buttons">Buttons</string>
+    <string name="url_demo">URL_demo</string>
+    <string name="overlap_buttons">Overlap_Buttons</string>
+    <string name="scrollview">ScrollView</string>
+    <string name="texto_8_1">Texto_8.1</string>
+    <string name="texto_8_2">Texto_8.2</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="izq">Izq</string>
+    <string name="centro">Centro</string>
+    <string name="dcha">Dcha</string>
+    <string name="edittext">EditText</string>
+</resources>
